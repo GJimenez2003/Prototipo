@@ -1,14 +1,13 @@
-# Mi Prototipo para trabajar con Git
-## Concepto
-Este es mi repositorio para **verificar** y **trabajar** con mis companeros remotamente
-Esta es la modificacion para confirmar que puedo trabajar con git 
-Estudiante **Gabriel Jiménez**
+# Prototipo 1
+## Gabriel Jiménez
 
-> Unity es fenomenal
+*Primera prueba de Git*
+> La prueba salio todo un exito
 
-Este es un ejemplo de un codigo en archivo READ.md
 ```
 git status
 git add
 git commit
 ```
+
+![Imagen Like](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Dlike&psig=AOvVaw3EP33_YKuusckh2pdS0xPn&ust=1718472519000000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCJ3JDP24YDFQAAAAAdAAAAABAE)
