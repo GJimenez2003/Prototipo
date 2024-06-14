@@ -1,6 +1,8 @@
-# Mi Prototipo 1 para trabajar con Git
+# Mi Prototipo para trabajar con Git
 ## Concepto
 Este es mi repositorio para **verificar** y **trabajar** con mis companeros remotamente
+Esta es la modificacion para confirmar que puedo trabajar con git 
+Estudiante **Gabriel Jiménez**
 
 > Unity es fenomenal
 
